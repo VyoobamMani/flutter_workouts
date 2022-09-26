@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![Manikandan](https://static.wixstatic.com/media/411e35_010cbc7d9aa94821a7a2928e4dfa46c4~mv2.png/v1/crop/x_0,y_10,w_379,h_353/fill/w_77,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vyoobam_logo.png)
 
 # Mi Card
 
@@ -23,6 +23,6 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.vyoobam.com](https://www.vyoobam.com/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![End Banner](https://static.wixstatic.com/media/411e35_010cbc7d9aa94821a7a2928e4dfa46c4~mv2.png/v1/crop/x_0,y_10,w_379,h_353/fill/w_77,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vyoobam_logo.png)
