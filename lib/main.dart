@@ -39,62 +39,66 @@ class MyApp extends StatelessWidget {
                   letterSpacing: 2.5,
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
-                padding: EdgeInsets.all(10.0),
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
                 ), //vertical will top and bottom & horizontal will be left and right
-                child: Row(
-                  children: [
-                    Icon(
-                      Icons.phone,
-                      size: 30.0,
-                      color: Colors.teal,
-                      // color: Colors.teal.shade600,
-                    ),
-                    SizedBox(
-                      width: 20.0,
-                    ),
-                    Text(
-                      '+91 8870910142',
-                      style: TextStyle(
-                        color: Colors.teal.shade900,
-                        fontFamily: 'Source Sans Pro',
-                        fontSize: 20.0,
+                child: Padding(
+                  padding: const EdgeInsets.all(15.0),
+                  child: Row(
+                    children: [
+                      Icon(
+                        Icons.phone,
+                        size: 30.0,
+                        color: Colors.teal,
+                        // color: Colors.teal.shade600,
                       ),
-                    )
-                  ],
+                      SizedBox(
+                        width: 20.0,
+                      ),
+                      Text(
+                        '+91 8870910142',
+                        style: TextStyle(
+                          color: Colors.teal.shade900,
+                          fontFamily: 'Source Sans Pro',
+                          fontSize: 20.0,
+                        ),
+                      )
+                    ],
+                  ),
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
-                padding: EdgeInsets.all(10.0),
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
                 ), //vertical will top and bottom & horizontal will be left and right
-                child: Row(
-                  children: [
-                    Icon(
-                      Icons.email,
-                      size: 30.0,
-                      color: Colors.teal,
-                      // color: Colors.teal.shade600,
-                    ),
-                    SizedBox(
-                      width: 20.0,
-                    ),
-                    Text(
-                      'mani.proff@gmail.com',
-                      style: TextStyle(
-                        color: Colors.teal.shade900,
-                        fontFamily: 'Source Sans Pro',
-                        fontSize: 20.0,
+                child: Padding(
+                  padding: const EdgeInsets.all(15.0),
+                  child: Row(
+                    children: [
+                      Icon(
+                        Icons.email,
+                        size: 30.0,
+                        color: Colors.teal,
+                        // color: Colors.teal.shade600,
                       ),
-                    )
-                  ],
+                      SizedBox(
+                        width: 20.0,
+                      ),
+                      Text(
+                        'mani.proff@gmail.com',
+                        style: TextStyle(
+                          color: Colors.teal.shade900,
+                          fontFamily: 'Source Sans Pro',
+                          fontSize: 20.0,
+                        ),
+                      )
+                    ],
+                  ),
                 ),
               ),
             ],
